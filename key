@@ -1,0 +1,1 @@
+https://api.nomics.com/v1/currencies/ticker?key=bf98d6b1cc552f8bbe69c2204f9a3652&ids=BTC,ETH,XLM&interval=1d,30d,365d&convert=EUR
